@@ -1,4 +1,4 @@
-# Several_Projects
+# Several Projects
 
 This repository contains some projects that I did between 2012 and 2016 when I started to learn programming at the age of 14. 
 
