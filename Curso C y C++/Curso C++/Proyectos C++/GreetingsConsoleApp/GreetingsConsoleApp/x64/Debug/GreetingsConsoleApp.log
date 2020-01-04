@@ -1,0 +1,8 @@
+﻿Compilación iniciada a las 20/03/2018 21:54:35.
+     1>Proyecto "F:\ARCHIVOS\Ingeniería Informática\Verano\Curso C\Curso C++\Proyectos C++\GreetingsConsoleApp\GreetingsConsoleApp\GreetingsConsoleApp.vcxproj" en el nodo 2 (Build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Platform.targets(64,5): error MSB8020: The build tools for v140 (Platform Toolset = 'v140') cannot be found. To build using the v140 build tools, please install v140 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Upgrade Solution...".
+     1>Compilación del proyecto terminada "F:\ARCHIVOS\Ingeniería Informática\Verano\Curso C\Curso C++\Proyectos C++\GreetingsConsoleApp\GreetingsConsoleApp\GreetingsConsoleApp.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.01

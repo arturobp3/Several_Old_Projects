@@ -1,0 +1,10 @@
+	SCANF c   caracter
+        d   decimal
+        e   número de punto flotante en notación científica
+        f   número de punto flotante
+        g   en el formato-e o el formato-f, el que sea más corto
+        s   string
+
+LIMPIARPANTALLA: poner #include <stdlib.h> yy comando system("cls");
+
+TMAÑO DE UNA VARIABLE EN BYTES: sizeof(nombrevariable);
