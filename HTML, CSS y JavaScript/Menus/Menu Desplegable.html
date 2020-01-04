@@ -1,0 +1,99 @@
+<html>
+
+<head>
+	<title>Menu Desplegable</title>
+	<link type="text/css" rel="stylesheet" href="menudesplegable.css"/>
+	<script>
+	var nombreUsuario = prompt("Cómo te llamas?");
+var usuarioElige = prompt("¿Qué eliges," + " " + nombreUsuario"?"",""¿Piedra, Papel o Tijera?");
+var ordenadorElige = Math.random() 
+	if (ordenadorElige <=0,33) {
+		alert("Piedra");
+	}
+	else if (0,34<ordenadorElige<1) {
+		alert("Papel");
+	}
+	else {
+		alert("Tijera");
+	}
+
+
+
+var comparacion = function (usuarioElige, ordenadorElige) {
+	if(usuarioElige === "Piedra") {
+		if (ordenadorElige==="Piedra") {
+			alert("¡Ha habido un empate!");
+		}
+		else if (ordenadorElige==="Papel") {
+			alert("¡Perdiste!");
+		}
+		else {
+			alert("¡Ganaste!");
+		}
+	}
+	else if (usuarioElige === "Papel") {
+		if (ordenadorElige==="Piedra") {
+			alert("¡Ganaste!");
+		}
+		else if (ordenadorElige==="Papel") {
+			alert("¡Ha habido un empate!");
+		}
+		else {
+			alert("¡Perdiste!");
+		}
+	}
+	else {
+		if (ordenadorElige==="Piedra") {
+			alert("¡Perdiste!");
+		}
+		else if (ordenadorElige==="Papel") {
+			alert("¡Ganaste!");
+		}
+		else {
+			alert("¡Ha habido un empate!");
+		}
+	}
+}
+	</script>
+</head>
+
+<body>
+	<div id="division">
+		<ul class="menu">
+			<li><a href="#">Boton 1</a></li>
+
+			<li><a href="#">Boton 2</a></li>
+			
+				<ul>
+					<li><a href="#">SubMenu 1</a></li>
+					<li><a href="#">SubMenu 2</a></li>
+					<li><a href="#">SubMenu 3</a></li>
+				</ul>
+
+			<li><a href="#">Boton 3</a></li>
+
+				<ul>
+					<li><a href="#">SubMenu 1</a></li>
+					<li><a href="#">SubMenu 2</a></li>
+					<li><a href="#">SubMenu 3</a></li>
+				</ul>
+
+			<li><a href="#">Boton 4</a></li>
+
+				<ul>
+					<li><a href="#">SubMenu 1</a></li>
+					<li><a href="#">SubMenu 2</a></li>
+					<li><a href="#">SubMenu 3</a></li>
+				</ul>
+
+		</ul>
+
+
+	</div>
+
+
+</body>
+
+
+
+</html>

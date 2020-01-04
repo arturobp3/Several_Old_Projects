@@ -1,0 +1,30 @@
+.menu{
+	z-index:1;
+	border:1px solid #cc0323;
+	height:40px;
+	width:96.8%;
+	background-color:#cc0323;
+	text-align:left;
+}
+li{
+	display:inline-block;
+	font-size:25px;
+	font-family:Tahoma;
+	color: #ffffff;
+	padding:5px;
+	background-color: #cc0323;
+	margin-left:-7px;
+	border-left:1px solid #9F7979;
+	border-right:1px solid #9F7979;
+}
+a:link{
+	text-decoration:none;
+	color:#ffffff;
+}
+li:hover{
+	text-decoration:none;
+	color:#ffffff;
+	background-color:#AC1C1C;
+
+}
+

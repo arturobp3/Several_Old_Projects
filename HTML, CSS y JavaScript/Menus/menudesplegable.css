@@ -1,0 +1,30 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+#division {
+	width:30%;
+	margin:auto;
+	font-family:Verdana;
+}
+
+ul {
+	list-style:none;
+}
+
+.menu li a {
+	background-color:#0174DF;
+	padding:10px;
+	text-decoration:none;
+	color:#ffffff;
+	display:block;
+}
+.menu > li {
+	float:left;
+	
+}
+
+
+
+
+
