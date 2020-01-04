@@ -1,0 +1,20 @@
+﻿Compilación iniciada a las 25/03/2018 14:06:09.
+     1>Proyecto "F:\ARCHIVOS\Documentos viejos\Universidad\2ºA\Juego Verano\Juego\Juego\Juego.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp piezas.cpp tablero.cpp
+         tablero.cpp
+         piezas.cpp
+     1>f:\archivos\documentos viejos\universidad\2ºa\juego verano\juego\juego\piezas.cpp(67): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+     1>f:\archivos\documentos viejos\universidad\2ºa\juego verano\juego\juego\piezas.cpp(65): warning C4101: 'num' : variable local sin referencia
+         main.cpp
+         Generando código...
+       Link:
+         C:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\ARCHIVOS\Documentos viejos\Universidad\2ºA\Juego Verano\Juego\Debug\Juego.exe" /INCREMENTAL /NOLOGO winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\ARCHIVOS\Documentos viejos\Universidad\2ºA\Juego Verano\Juego\Debug\Juego.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\ARCHIVOS\Documentos viejos\Universidad\2ºA\Juego Verano\Juego\Debug\Juego.lib" /MACHINE:X86 Debug\main.obj
+         Debug\piezas.obj
+         Debug\tablero.obj
+         Juego.vcxproj -> F:\ARCHIVOS\Documentos viejos\Universidad\2ºA\Juego Verano\Juego\Debug\Juego.exe
+     1>Compilación del proyecto terminada "F:\ARCHIVOS\Documentos viejos\Universidad\2ºA\Juego Verano\Juego\Juego\Juego.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.41
